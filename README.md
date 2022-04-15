@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Minh Nguyen
 - 👀 I’m interested in IoT projects which are used in everyday life. I'm working on creating an automated plant watering system, which can also be manually controlled remotely.
-- 🌱 I’m currently learning JavaScript and HTML to create a web interface for my plant watering system.
+- 🌱 I’m always actively trying to learn new skills. Currently learning web development with HTML, JavaScript, CSS with frameworks to create a web interface for my plant watering system.
 - 💞️ I’m looking to collaborate on any projects IoT related, or web developing to improve my overall skills.
 - 📫 How to reach me:
       +> Email: minhvip10x@gmail.com
